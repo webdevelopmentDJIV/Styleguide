@@ -5810,6 +5810,2533 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/public\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/data\/annotations.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/data\/annotations.js",
+		"outputAbbreviatedPath": "\/public\/data\/min\/annotations-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/images\/favicon_16x16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 311,
+		"inputAbbreviatedPath": "\/public\/images\/favicon_16x16.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/favicon_16x16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/favicon_32x32.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 320,
+		"inputAbbreviatedPath": "\/public\/images\/favicon_32x32.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/favicon_32x32.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/fpo_16x9.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8416,
+		"inputAbbreviatedPath": "\/public\/images\/fpo_16x9.png",
+		"outputAbbreviatedPath": "\/public\/images\/fpo_16x9.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/fpo_4x3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3709,
+		"inputAbbreviatedPath": "\/public\/images\/fpo_4x3.png",
+		"outputAbbreviatedPath": "\/public\/images\/fpo_4x3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/fpo_avatar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3217,
+		"inputAbbreviatedPath": "\/public\/images\/fpo_avatar.png",
+		"outputAbbreviatedPath": "\/public\/images\/fpo_avatar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/fpo_square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8694,
+		"inputAbbreviatedPath": "\/public\/images\/fpo_square.png",
+		"outputAbbreviatedPath": "\/public\/images\/fpo_square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1931,
+		"inputAbbreviatedPath": "\/public\/images\/logo.png",
+		"outputAbbreviatedPath": "\/public\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/landscape-16x9-mountains.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78249,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/landscape-16x9-mountains.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/landscape-16x9-mountains.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/thumb-square-fire.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72783,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-fire.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-fire.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/thumb-square-gear.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 146848,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-gear.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-gear.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/thumb-square-ivy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76319,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-ivy.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-ivy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/thumb-square-river.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50522,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-river.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-river.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/thumb-square-yosemite.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84720,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-yosemite.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/thumb-square-yosemite.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/tout-4x3-climber.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 114565,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-climber.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-climber.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/tout-4x3-climbers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85295,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-climbers.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-climbers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/images\/sample\/tout-4x3-stream.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98049,
+		"inputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-stream.jpg",
+		"outputAbbreviatedPath": "\/public\/images\/sample\/tout-4x3-stream.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/public\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/js\/fitvids.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/fitvids.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/fitvids-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/js\/init.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/init.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/init-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/js\/jquery-2.0.0b2.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/jquery-2.0.0b2.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/jquery-2.0.0b2-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/js\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/js\/modernizr.js",
+		"outputAbbreviatedPath": "\/public\/js\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-00-colors\/00-atoms-01-global-00-colors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-01-fonts\/00-atoms-01-global-01-fonts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-02-animations\/00-atoms-01-global-02-animations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global-03-visibility\/00-atoms-01-global-03-visibility.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-01-global\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-01-global\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-00-headings\/00-atoms-02-text-00-headings.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-01-paragraph\/00-atoms-02-text-01-paragraph.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-02-blockquote\/00-atoms-02-text-02-blockquote.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-03-inline-elements\/00-atoms-02-text-03-inline-elements.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-04-time\/00-atoms-02-text-04-time.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-05-preformatted-text\/00-atoms-02-text-05-preformatted-text.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text-06-hr\/00-atoms-02-text-06-hr.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-02-text\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-02-text\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-00-unordered\/00-atoms-03-lists-00-unordered.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-01-ordered\/00-atoms-03-lists-01-ordered.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists-02-definition\/00-atoms-03-lists-02-definition.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-03-lists\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-03-lists\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-00-logo\/00-atoms-04-images-00-logo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-01-landscape-4x3\/00-atoms-04-images-01-landscape-4x3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-02-landscape-16x9\/00-atoms-04-images-02-landscape-16x9.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-03-square\/00-atoms-04-images-03-square.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-04-avatar\/00-atoms-04-images-04-avatar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-05-icons\/00-atoms-04-images-05-icons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-06-loading-icon\/00-atoms-04-images-06-loading-icon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images-07-favicon\/00-atoms-04-images-07-favicon.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-04-images\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-04-images\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-00-text-fields\/00-atoms-05-forms-00-text-fields.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-01-select-menu\/00-atoms-05-forms-01-select-menu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-02-checkbox\/00-atoms-05-forms-02-checkbox.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-03-radio-buttons\/00-atoms-05-forms-03-radio-buttons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms-04-html5-inputs\/00-atoms-05-forms-04-html5-inputs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-05-forms\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-05-forms\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-06-buttons-00-buttons\/00-atoms-06-buttons-00-buttons.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-06-buttons\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-06-buttons\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-07-tables-00-table\/00-atoms-07-tables-00-table.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/00-atoms-07-tables\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/00-atoms-07-tables\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-00-byline\/01-molecules-00-text-00-byline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-01-address\/01-molecules-00-text-01-address.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-02-heading-group\/01-molecules-00-text-02-heading-group.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-03-blockquote-with-citation\/01-molecules-00-text-03-blockquote-with-citation.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text-04-intro-text\/01-molecules-00-text-04-intro-text.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-00-text\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-00-text\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-00-one-up\/01-molecules-01-layout-00-one-up.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-01-two-up\/01-molecules-01-layout-01-two-up.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-02-three-up\/01-molecules-01-layout-02-three-up.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout-03-four-up\/01-molecules-01-layout-03-four-up.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-01-layout\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-01-layout\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-00-media-block\/01-molecules-02-blocks-00-media-block.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-01-block-headline-byline\/01-molecules-02-blocks-01-block-headline-byline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-02-block-hero\/01-molecules-02-blocks-02-block-hero.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-03-block-thumb-headline\/01-molecules-02-blocks-03-block-thumb-headline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-04-block-headline\/01-molecules-02-blocks-04-block-headline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks-05-block-inset\/01-molecules-02-blocks-05-block-inset.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-02-blocks\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-02-blocks\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-03-media-00-figure-with-caption\/01-molecules-03-media-00-figure-with-caption.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-03-media\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-03-media\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-00-search\/01-molecules-04-forms-00-search.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-01-comment-form\/01-molecules-04-forms-01-comment-form.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms-02-newsletter\/01-molecules-04-forms-02-newsletter.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-04-forms\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-04-forms\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-00-primary-nav\/01-molecules-05-navigation-00-primary-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-01-footer-nav\/01-molecules-05-navigation-01-footer-nav.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-02-breadcrumbs\/01-molecules-05-navigation-02-breadcrumbs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-03-pagination\/01-molecules-05-navigation-03-pagination.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation-04-tabs\/01-molecules-05-navigation-04-tabs.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-05-navigation\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-05-navigation\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-00-social-share\/01-molecules-06-components-00-social-share.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-01-accordion\/01-molecules-06-components-01-accordion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components-02-single-comment\/01-molecules-06-components-02-single-comment.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-06-components\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-06-components\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-07-messaging-00-alert\/01-molecules-07-messaging-00-alert.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/01-molecules-07-messaging\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/01-molecules-07-messaging\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-00-header\/02-organisms-00-global-00-header.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global-01-footer\/02-organisms-00-global-01-footer.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-00-global\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-00-global\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-01-article-00-article-body\/02-organisms-01-article-00-article-body.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-01-article\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-01-article\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-02-comments-00-comment-thread\/02-organisms-02-comments-00-comment-thread.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-02-comments\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-02-comments\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-00-latest-posts\/02-organisms-03-sections-00-latest-posts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-01-recent-tweets\/02-organisms-03-sections-01-recent-tweets.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections-02-related-posts\/02-organisms-03-sections-02-related-posts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/02-organisms-03-sections\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/02-organisms-03-sections\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-00-homepage\/03-templates-00-homepage.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-00-homepage\/03-templates-00-homepage.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-00-homepage\/03-templates-00-homepage.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-00-homepage\/03-templates-00-homepage.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-01-blog\/03-templates-01-blog.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-01-blog\/03-templates-01-blog.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-01-blog\/03-templates-01-blog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-01-blog\/03-templates-01-blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-02-article\/03-templates-02-article.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-02-article\/03-templates-02-article.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/03-templates-02-article\/03-templates-02-article.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/03-templates-02-article\/03-templates-02-article.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-00-homepage-emergency\/04-pages-00-homepage-emergency.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-00-homepage-emergency\/04-pages-00-homepage-emergency.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-00-homepage-emergency\/04-pages-00-homepage-emergency.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-00-homepage-emergency\/04-pages-00-homepage-emergency.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-00-homepage\/04-pages-00-homepage.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-00-homepage\/04-pages-00-homepage.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-00-homepage\/04-pages-00-homepage.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-00-homepage\/04-pages-00-homepage.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-01-blog\/04-pages-01-blog.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-01-blog\/04-pages-01-blog.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-01-blog\/04-pages-01-blog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-01-blog\/04-pages-01-blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-02-article\/04-pages-02-article.escaped.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-02-article\/04-pages-02-article.escaped.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/patterns\/04-pages-02-article\/04-pages-02-article.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/patterns\/04-pages-02-article\/04-pages-02-article.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/css\/styleguide-specific.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide-specific.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/css\/styleguide-specific.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide-specific.scss",
+		"outputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide-specific.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/public\/styleguide\/css\/styleguide.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/css\/styleguide.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide.scss",
+		"outputAbbreviatedPath": "\/public\/styleguide\/css\/styleguide.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/public\/styleguide\/css\/vendor\/prism.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/vendor\/prism.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/css\/vendor\/typeahead.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/css\/vendor\/typeahead.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/html\/styleguide.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/html\/styleguide.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/public\/styleguide\/js\/annotations-pattern.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/annotations-pattern.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/annotations-pattern-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/annotations-viewer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/annotations-viewer.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/annotations-viewer-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/code-pattern.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/code-pattern.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/code-pattern-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/code-viewer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/code-viewer.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/code-viewer-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/data-saver.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/data-saver.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/data-saver-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/pattern-finder.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/pattern-finder.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/pattern-finder-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/postmessage.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/postmessage.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/postmessage-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/qrcode-generator.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/qrcode-generator.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/qrcode-generator-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/styleguide.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/styleguide.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/styleguide-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/synclisteners.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/synclisteners.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/synclisteners-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/url-handler.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/url-handler.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/min\/url-handler-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/vendor\/classlist-polyfill.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/classlist-polyfill.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/min\/classlist-polyfill-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/vendor\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/jquery.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/vendor\/jwerty.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/jwerty.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/min\/jwerty-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/vendor\/prism.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/prism.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/min\/prism-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/public\/styleguide\/js\/vendor\/typeahead.bundle.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/typeahead.bundle.min.js",
+		"outputAbbreviatedPath": "\/public\/styleguide\/js\/vendor\/min\/typeahead.bundle.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 0,
